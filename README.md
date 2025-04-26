@@ -15,7 +15,6 @@ Matplotlib, Seaborn (for visualization)
 
 Jupyter Notebook / Google Colab
 
-(Optional: TensorFlow / Keras if you use deep learning)
 
 🧠 Key Features
 Preprocessing of vehicle metrics datasets
